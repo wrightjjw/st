@@ -1,3 +1,9 @@
+# st
+Hello I am Josh Wright and you are currently browsing
+my build of suckless st from https://st.suckless.org
+which is a simple terminal
+## Original Suckless Readme
+```
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
@@ -31,4 +37,5 @@ See the man page for additional details.
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
+```
 
