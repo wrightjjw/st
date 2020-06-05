@@ -6,6 +6,7 @@ which is a simple terminal
 ## Patches
 - [rightclickpaste-0.8.2](https://st.suckless.org/patches/rightclickpaste/)
 - [scrollback-20200419](https://st.suckless.org/patches/scrollback/)
+- [newterm-0.8.2](https://st.suckless.org/patches/newterm/)
 
 ## Original Suckless Readme
 ```
