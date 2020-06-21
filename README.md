@@ -2,6 +2,12 @@
 Hello I am Josh Wright and you are currently browsing
 my build of suckless st from https://st.suckless.org
 which is a simple terminal
+
+## Patches
+- [rightclickpaste-0.8.2](https://st.suckless.org/patches/rightclickpaste/)
+- [scrollback-20200419](https://st.suckless.org/patches/scrollback/)
+- [newterm-0.8.2](https://st.suckless.org/patches/newterm/)
+
 ## Original Suckless Readme
 ```
 st - simple terminal
