@@ -3,6 +3,9 @@ Hello I am Josh Wright and you are currently browsing
 my build of suckless st from https://st.suckless.org
 which is a simple terminal
 
+If you're Arch-based, you can install this from the AUR
+as [st-wrightjjw-git](https://aur.archlinux.org/packages/st-wrightjjw-git/)
+
 ## Patches
 - [rightclickpaste-0.8.2](https://st.suckless.org/patches/rightclickpaste/)
 - [scrollback-20200419](https://st.suckless.org/patches/scrollback/)
